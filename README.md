@@ -1,8 +1,8 @@
 <div align="center"> 
-  <a href="https://www.youtube.com/user/zniedzwiedz/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://www.thingiverse.com/zoon/designs" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Thingiverse&color=248BFB&logo=Thingiverse&logoColor=FFFFFF&label=" target="_blank"></a>
   <a href = "mailto:zniedzwiedz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.thingiverse.com/zoon/designs" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Thingiverse&color=248BFB&logo=Thingiverse&logoColor=FFFFFF&label=" target="_blank"></a>
   <a href="https://www.linkedin.com/in/zbigniew-nied%C5%BAwied%C5%BA-4204714a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCzHkAUXRvvkY82baabbCEGg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
 </div>
 
