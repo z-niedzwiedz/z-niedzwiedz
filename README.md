@@ -5,5 +5,5 @@
 </div>
 
 <h4 align="center">
-  <a href="https://github.com/z-niedzwiedz?tab=repositories" title="Pokaż repozytoria">🔎 Pokaż więcej repozytoriów 🔍</a>
+  <a href="https://github.com/z-niedzwiedz?tab=repositories" title="Pokaż wszystkie repozytoria">🔎 Pokaż wszystkie repozytoria 🔍</a>
 </h4>
