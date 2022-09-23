@@ -16,8 +16,18 @@
   <a align="right" href="https://github.com/z-niedzwiedz/Prestiz" title="Prestiz"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=z-niedzwiedz&repo=Prestiz&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
-<br><br><br><br><br><br>
+<div width="100%" align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+</div>
 
+
+<br><br><br><br><br><br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <h4 align="center">
   <a href="https://github.com/z-niedzwiedz?tab=repositories" title="Pokaż repozytoria">🔎 Pokaż więcej 🔍</a>
 </h4>
